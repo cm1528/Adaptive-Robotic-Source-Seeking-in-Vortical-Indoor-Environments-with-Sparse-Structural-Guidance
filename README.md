@@ -29,4 +29,22 @@ Gas dispersion in the indoor environments is simulated using **GADEN**, producin
 ## Scenario Naming Convention
 
 To facilitate systematic analysis and reproducibility, all test cases adhere to a unified naming convention:
+CaseX1-X2-X3-X4-X5-X6X7
+
+where:
+
+- **X1**: Scenario type (`A–C`)  
+- **X2**: Environment index (`01–06`)  
+- **X3 / X4**: Airflow inlet and outlet numbers  
+- **X5**: Inlet wind speed (e.g., `04` for 0.4 m/s)  
+- **X6**: Source position relative to airflow  
+  - `U` = Upstream  
+  - `D` = Downstream  
+- **X7**: Source location relative to the plume  
+  - `I` = Inside  
+  - `O` = Outside  
+
+### Example
+
+`CaseB-03-1-4-08-UI` describes a vortex-type scenario in **Environment 03**, with airflow inlet **1**, outlet **4**, wind speed **0.8 m/s**, and a source placed **upstream and inside the plume**.
 
