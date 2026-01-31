@@ -4,6 +4,7 @@ The dataset generation pipeline is based on a secondary development of [AutoGDM]
 
 ## Dataset
 The dataset consists of three main categories of data used for robotic indoor source-seeking experiments.
+
 [CAD Files](https://huggingface.co/datasets/): Indoor environment models are represented using CAD files, which define the geometric layouts and obstacle configurations of the simulated indoor scenarios.
 
 [CFD Data](https://huggingface.co/datasets/): Airflow fields within the indoor environments are generated through computational fluid dynamics (CFD) simulations using [OpenFOAM](https://openfoam.org/)) 7 software, following the airflow simulation pipeline provided by AutoGDM.
