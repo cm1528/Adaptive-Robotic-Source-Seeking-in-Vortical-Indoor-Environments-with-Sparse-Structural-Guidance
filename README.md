@@ -1,4 +1,4 @@
-[View Paper](https://ieeexplore.ieee.org/Xplore/home.jsp)
+View Paper
 
 (Code will be released after acceptance)
 
