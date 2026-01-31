@@ -1,5 +1,6 @@
 [View Paper](https://ieeexplore.ieee.org/Xplore/home.jsp)
-(Code will be released after publication)
+
+(Code will be released after acceptance)
 
 ## Source Code
 Robot simulations were conducted using the [Gazebo](https://gazebosim.org/home) simulation environment on the [ROS](https://www.ros.org/) platform. The source-seeking task is performed by a [TurtleBot3 Burger](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) mobile robot, equipped with a single-line LiDAR, a MOX gas concentration sensor, and an anemometer. The ROS version used in the simulations is [Noetic](https://wiki.ros.org/noetic).
@@ -16,6 +17,7 @@ The dataset consists of three main categories of data used for robotic indoor so
 
 ## Videos
 (Videos will be released after acceptance)
+
 [CaseA-01-26-28-04-DI](https://www.youtube.com/)
 
 [CaseB-04-27-26-04-UO](https://www.youtube.com/)
