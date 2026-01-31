@@ -22,8 +22,13 @@ The dataset consists of three main categories of data used for robotic indoor so
 
 ## Cite this paper
 @article{Jing2026adaptive,
+
   author={Jing, Mengjie and Bin, Xin and Wang, Miao and Bian, Wenjing},
+  
   journal={xxx}, 
+  
   title={Adaptive Robotic Source Seeking in Vortical Indoor Environments with Sparse Structural Guidance}, 
+  
   year={2026}
+  
 }
