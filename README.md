@@ -16,6 +16,7 @@ The dataset consists of three main categories of data used for robotic indoor so
 
 ## Videos
 (Videos will be released after acceptance)
+
 • CaseA-01-26-28-04-DI  
 • CaseB-04-27-26-04-UO  
 • Scenario 1  
