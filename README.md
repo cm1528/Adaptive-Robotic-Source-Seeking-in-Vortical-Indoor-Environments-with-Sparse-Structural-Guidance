@@ -16,15 +16,14 @@ The dataset consists of three main categories of data used for robotic indoor so
 [Dispersion Data](https://huggingface.co/datasets/): Gas dispersion in the indoor environments is simulated using [GADEN](https://github.com/MAPIRlab/gaden), producing spatial gas concentration distributions used for robotic source-seeking experiments.
 
 ## Videos
-(Videos will be released after acceptance)
+(Videos will be released after acceptance)\\
+CaseA-01-26-28-04-DI
 
-[CaseA-01-26-28-04-DI](https://www.youtube.com/)
+CaseB-04-27-26-04-UO
 
-[CaseB-04-27-26-04-UO](https://www.youtube.com/)
+Scenario 1
 
-[Scenario 1](https://www.youtube.com/)
-
-[Scenario 2](https://www.youtube.com/)
+Scenario 2
 
 ## Cite this paper
 @article{Jing2026adaptive,
