@@ -1,5 +1,5 @@
 ## Source Code
-Robot simulations were conducted using the Gazebo simulation environment on the ROS platform. The source-seeking task is performed by a **[TurtleBot3 Burger](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)** mobile robot, equipped with a single-line LiDAR, a MOX gas concentration sensor, and an anemometer. The ROS version used in the simulations is **Noetic**.
+Robot simulations were conducted using the [Gazebo](https://gazebosim.org/home) simulation environment on the ROS platform. The source-seeking task is performed by a **[TurtleBot3 Burger](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)** mobile robot, equipped with a single-line LiDAR, a MOX gas concentration sensor, and an anemometer. The ROS version used in the simulations is **Noetic**.
 The simulation and dataset generation pipeline is based on a **secondary development of [AutoGDM](https://github.com/tudelft/AutoGDM)**, which provides integrated support for indoor environment modeling, airflow simulation, and gas dispersion modeling.
 
 ## Dataset
