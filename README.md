@@ -10,7 +10,7 @@ The dataset consists of three main categories of data used for robotic indoor so
 
 • [CAD Files](https://huggingface.co/datasets/): Indoor environment models are represented using CAD files, which define the geometric layouts and obstacle configurations of the simulated indoor scenarios.
 
-• [CFD Data](https://huggingface.co/datasets/): Airflow fields within the indoor environments are generated through computational fluid dynamics (CFD) simulations using [OpenFOAM](https://openfoam.org/) 7 software, following the airflow simulation pipeline provided by AutoGDM.
+• [CFD Data](https://huggingface.co/datasets/): Airflow fields within the indoor environments are generated through CFD simulations using [OpenFOAM](https://openfoam.org/) 7 software, following the airflow simulation pipeline provided by AutoGDM.
 
 • [Dispersion Data](https://huggingface.co/datasets/): Gas dispersion in the indoor environments is simulated using [GADEN](https://github.com/MAPIRlab/gaden), producing spatial gas concentration distributions used for robotic source-seeking experiments.
 
