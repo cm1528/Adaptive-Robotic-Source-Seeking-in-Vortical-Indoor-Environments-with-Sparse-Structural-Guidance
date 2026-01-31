@@ -1,9 +1,5 @@
 # Robotic Indoor Source-Seeking Simulation and Dataset
 
-<p align="center">
-  <img src="assets/overview.png" width="700">
-</p>
-
 ## Source Code
 
 Robot simulations were conducted using the Gazebo simulation environment on the ROS platform.  
