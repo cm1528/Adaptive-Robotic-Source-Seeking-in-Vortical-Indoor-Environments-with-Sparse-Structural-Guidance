@@ -23,9 +23,9 @@ The dataset consists of three main categories of data used for robotic indoor so
 • [Scenario 2](https://youtu.be/KkuDE-eFYpQ)  
 
 ## Cite this paper
-@article{Jing2026adaptive,
+@article{2026adaptive,
 
-  author={Jing, Mengjie and Xin, Bin and Wang, Miao and Bian, Wenjing},
+  author={xxx},
   
   journal={xxx}, 
   
